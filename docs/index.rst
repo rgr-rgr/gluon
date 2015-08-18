@@ -50,6 +50,8 @@ Packages
    :maxdepth: 1
 
    package/gluon-radio-config
+   package/gluon-next-node
+   package/gluon-next-node-batman-adv
 
 Releases
 --------
